@@ -1,1 +1,5 @@
-// declare your functions here...
+$(document).ready(function(){
+  function paragraphSelector(){
+    return $('p');
+  }
+})// declare your functions here...
