@@ -1,4 +1,3 @@
-
   function paragraphSelector(){
     return $('p');
   }
@@ -14,4 +13,4 @@
   function firstListItem(){
     return $('#pic-list ul:first-child')
   }
- declare your functions here...
+
